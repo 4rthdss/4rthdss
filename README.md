@@ -1,12 +1,13 @@
-20### Hi there 👋
 
-Skills:
+
+<strong>Skills:</strong>
 <img align="center" alt="4rth-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="4rth-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="4rth-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <br>
+<br>
 Learning:
-<img align="center" alt="4rth-Kt" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+<strong><img align="center" alt="4rth-Kt" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></strong>
 
 <div align="start">
   <a href="https://github.com/4rthdss">
