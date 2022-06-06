@@ -1,20 +1,11 @@
-## Nice to meet you 👋
-* **Name**: Arthur Diniz Souza Silva
-* **Age**: 18
-* **Living in**: Minas Gerais, Brazil
--------------
-<strong>Skills:</strong>
-<br>
-<img align="center" alt="4rth-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="4rth-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="4rth-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<br>
-<br>
-<strong>Learning:</strong>
-<br>
--------------
-<div align="start">
-  <a href="https://github.com/4rthdss">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=4rthdss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rthdss&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<img src="https://cdn.discordapp.com/attachments/950572943019245568/983386132836388894/channels4_banner.jpg"/>
+
+## About me:
+- 18 yo.
+- Minas Gerais, Brazil.
+
+## Skills:
+
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
