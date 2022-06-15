@@ -6,7 +6,7 @@
 
 ## Technologies and Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-0C0C0C?style=for-the-badge&logo=html5&logoColor=red)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
