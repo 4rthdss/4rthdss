@@ -6,13 +6,14 @@
 
 ## Technologies and Tools
 
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=EFD81D)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
 ## Studying
 
-![Kotlin](https://img.shields.io/badge/kotlin-black.svg?&style=for-the-badge&logo=kotlin&logoColor=#5B79DF)
-![Dart](https://img.shields.io/badge/dart-black.svg?&style=for-the-badge&logo=dart&logoColor=1976D2)
+![Kotlin](https://img.shields.io/badge/kotlin-black.svg?&style=for-the-badge&logo=kotlin&logoColor=9966FF)
+![Dart](https://img.shields.io/badge/dart-black.svg?&style=for-the-badge&logo=dart&logoColor=00CBB2)
+![Flutter](https://img.shields.io/badge/flutter-black?&style=for-the-badge&logo=flutter&logoColor=65BFE7)
 ![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=3DDC84)
