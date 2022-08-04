@@ -14,6 +14,4 @@
 ## Studying
 
 ![Kotlin](https://img.shields.io/badge/kotlin-black.svg?&style=for-the-badge&logo=kotlin&logoColor=9966FF)
-![Dart](https://img.shields.io/badge/dart-black.svg?&style=for-the-badge&logo=dart&logoColor=00CBB2)
-![Flutter](https://img.shields.io/badge/flutter-black?&style=for-the-badge&logo=flutter&logoColor=65BFE7)
 ![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=3DDC84)
